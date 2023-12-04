@@ -1,6 +1,6 @@
 ## Eventdisplay - An Analysis and Reconstruction Package for Ground-based Gamma-ray Astronomy
 
-Eventdisplay is a reconstruction and analysis pipline for data of Imaging Atmospheric Cherenkov Telescopes (IACT). 
+Eventdisplay is a reconstruction and analysis pipeline for data of Imaging Atmospheric Cherenkov Telescopes (IACT). 
 It has been primarily developed for [VERITAS](veritas.sao.arizona.edu/) and [CTA](https://cta-observatory.org/) analysis and used in many VERITAS and CTA publications.
 
 This organisation contains the Eventdisplay versions used for CTA and other analyses. 
